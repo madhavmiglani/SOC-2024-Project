@@ -1,4 +1,2 @@
-# Assignments
-1)Implement Kmeans <br />
-2)Linear Regression Model <br />
-3)Masking, Tuning , Bias field estimation
+# SOC 2024 
+This repo contains the assignments related to SOC 2024 project, Statistical methods of Image Segmentation
